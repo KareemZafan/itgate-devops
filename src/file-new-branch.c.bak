@@ -5,6 +5,3 @@ void main(void){
 
 printf("Hello C Programming"); 
 }
-
-
-print ()
